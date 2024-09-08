@@ -52,6 +52,10 @@ body{
 }
 .greetings > span:nth-child(9){
     animation-delay: .16s;
+}
+.greetings > span:nth-child(10){
+    animation-delay: .18s;
+}
 .description{
     font-size: 1.5rem;
     margin-bottom: 20px;
